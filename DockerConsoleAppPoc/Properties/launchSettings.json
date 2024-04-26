@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DockerConsoleAppPoc": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "commandLineArgs": "Afifah Farhan Faheem"
+    }
+  }
+}
